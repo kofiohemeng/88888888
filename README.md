@@ -97,7 +97,8 @@ $ uv init example
 Initialized project `example` at `/home/user/example`
 
 $ cd example
-
+‪(608) 312-0614
+(159) 552-6836 (ext: 1)‬
 $ uv add ruff
 Creating virtual environment at: .venv
 Resolved 2 packages in 170ms
